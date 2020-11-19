@@ -1,4 +1,4 @@
-# Predicting Star Reviews for Musical Instruments with NLP
+# Predicting Star Rating Reviews for Musical Instruments with NLP
 
 Challenge:
 To be able to predict if a given review text would classify as a 0 to 5 star review based on the review dataset available.
