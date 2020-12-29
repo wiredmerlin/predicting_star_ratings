@@ -1,7 +1,8 @@
 Review Ratings Predictor
 
-Built Machine learning predictor that classified review text into star rating
-Created n-gram bag of words model with TF-IDF
+Built Machine learning predictor that classified review text into star rating.
+
+Created n-gram bag of words model with TF-IDF.
  
 
 Amazon Source dataset location:
