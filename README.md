@@ -1,7 +1,8 @@
-# Predicting Star Rating Reviews for Musical Instruments with NLP
+Review Ratings Predictor
 
-Challenge:
-To be able to predict if a given review text would classify as a 0 to 5 star review based on the review dataset available.
+Built Machine learning predictor that classified review text into star rating.
+
+Created n-gram bag of words model with TF-IDF.
  
 
 Amazon Source dataset location:
